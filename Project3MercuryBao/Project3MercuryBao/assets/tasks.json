@@ -1,0 +1,26 @@
+[
+    {
+        "desc":"high and close due date",
+        "urgency":"high",
+        "textdate":"2022-05-03",
+        "finished":false
+    },
+    {
+        "desc":"mid and past due date",
+        "urgency":"midium",
+        "textdate":"2022-05-01",
+        "finished":false
+    },
+    {
+        "desc":"low and long due date",
+        "urgency":"low",
+        "textdate":"2023-05-02",
+        "finished":false
+    },
+    {
+        "desc":"low and long due date",
+        "urgency":"low",
+        "textdate":"2023-05-02",
+        "finished":true
+    }
+]
